@@ -23,5 +23,5 @@ sqlparse==0.3.1 <br />
  # Frontend Requirements
  
  npm install -g @angular/cli <br />
- 
+ npm install <br />
  after node and npm installation
