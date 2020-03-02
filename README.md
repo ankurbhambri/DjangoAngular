@@ -13,8 +13,8 @@ and most of the work usually happens on the client-side.
 
 # Backend Requirements:
 
-asgiref==3.2.3
-Django==3.0.3
+asgiref==3.2.3 /
+Django==3.0.3 /
 django-cors-headers==3.2.1
 djangorestframework==3.11.0
 pytz==2019.3
