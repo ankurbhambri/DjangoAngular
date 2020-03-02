@@ -14,17 +14,17 @@ and most of the work usually happens on the client-side.
 # Backend Requirements:
 
 asgiref==3.2.3 <br />
-Django==3.0.3 /
-django-cors-headers==3.2.1
-djangorestframework==3.11.0
-pytz==2019.3
-sqlparse==0.3.1
+Django==3.0.3 <br />
+django-cors-headers==3.2.1 <br />
+djangorestframework==3.11.0 <br />
+pytz==2019.3 <br />
+sqlparse==0.3.1 <br />
  
  # Frontend Requirements:
  
- npm install -g @angular/cli
+ npm install -g @angular/cli <br />
  
  after node and npm installation
- eg:- 
- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ eg:- <br />
+ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash - <br />
  sudo apt-get install nodejs
