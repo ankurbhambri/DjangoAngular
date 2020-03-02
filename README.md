@@ -25,6 +25,3 @@ sqlparse==0.3.1 <br />
  npm install -g @angular/cli <br />
  
  after node and npm installation
- eg:- <br />
- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash - <br />
- sudo apt-get install nodejs
