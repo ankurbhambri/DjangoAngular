@@ -6,22 +6,7 @@ import { ShoppingItem } from './shopping-item.interface';
 @Component({
   selector: 'app-root',
   template: `
-  <div style="text-align:center">
-    <h1>
-      List of Items
-    </h1>
-  </div>
-  <ul>
-    <li *ngFor="let item of items">
-      <h2>{{ item.quantity }}x {{ item.name }}
-      <button (click)="delete(item.id)">x</button></h2>
-    </li>
-  </ul>
-
-  <input #itemQuantity type='text' placeholder='Qtd'>
-  <input #itemName type='text' placeholder='Name'>
-  <button (click)="add(itemName.value, itemQuantity.value)">Add</button>
-  {{ error?.message }}
+ <router-outlet></router-outlet>
   `
 })
 export class AppComponent implements OnInit {
