@@ -11,7 +11,7 @@ Frontend = On the other hand, the frontend is responsible for the presentation l
 and most of the work usually happens on the client-side.
 
 
-# Backend Requirements:
+# Backend Requirements
 
 asgiref==3.2.3 <br />
 Django==3.0.3 <br />
@@ -20,8 +20,8 @@ djangorestframework==3.11.0 <br />
 pytz==2019.3 <br />
 sqlparse==0.3.1 <br />
  
- # Frontend Requirements:
+ # Frontend Requirements
  
  npm install -g @angular/cli <br />
- 
+ npm install <br />
  after node and npm installation
