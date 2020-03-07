@@ -14,11 +14,25 @@ and most of the work usually happens on the client-side.
 # Backend Requirements
 
 asgiref==3.2.3 <br />
+certifi==2019.11.28 <br />
+chardet==3.0.4 <br />
+defusedxml==0.6.0 <br />
 Django==3.0.3 <br />
+django-allauth==0.41.0 <br />
 django-cors-headers==3.2.1 <br />
+django-rest-auth==0.9.5 <br />
 djangorestframework==3.11.0 <br />
+djangorestframework-jwt==1.11.0 <br />
+idna==2.9 <br />
+oauthlib==3.1.0 <br />
+PyJWT==1.7.1 <br />
+python3-openid==3.1.0 <br />
 pytz==2019.3 <br />
+requests==2.23.0 <br />
+requests-oauthlib==1.3.0 <br />
+six==1.14.0 <br />
 sqlparse==0.3.1 <br />
+urllib3==1.25.8 <br />
  
  # Frontend Requirements
  
